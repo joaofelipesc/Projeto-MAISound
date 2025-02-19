@@ -1,3 +1,6 @@
 [submodule "Repo MAISound Flutter"]
 	path = Repo MAISound Flutter
 	url = https://github.com/MAISound/MAISound_Flutter_App.git
+[submodule "Repo MAISound"]
+	path = Repo MAISound
+	url = https://github.com/MAISound/MAISound_Flutter_App.git
